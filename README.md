@@ -48,10 +48,11 @@ http://localhost:5678
 
 ### Step 1: Import the Workflow
 
-1. Download the `workflow.json` file from this repository
+1. Download the `Youtube_video_no_voice_automation.json` file from this repository
+   - [Direct link to workflow file](./Youtube_video_no_voice_automation.json)
 2. In the n8n interface, click on **Workflows** in the sidebar
 3. Click the **Import from File** button (or **Import from URL** if accessing the workflow from a direct link)
-4. Select the downloaded `workflow.json` file
+4. Select the downloaded `Youtube_video_no_voice_automation.json` file
 5. Click **Import** to load the workflow into n8n
 
 ### Step 2: Configure Google API Credentials
