@@ -6,6 +6,11 @@ A comprehensive solution for automating the creation and uploading of faceless Y
 
 This repository contains an n8n workflow that automates the process of creating faceless YouTube videos. The workflow pulls content from Google Sheets (quotes, stock videos, and music), assembles them into a video, and uploads it directly to YouTube - all without requiring manual video editing.
 
+## Sample Output
+
+Here's an example of a YouTube Short created using this automation workflow:
+[Sample YouTube Short](https://youtube.com/shorts/heMdsQjCbno?si=6MbAG9cXTiBsDHs0)
+
 ## Prerequisites
 
 - Docker installed on your system
